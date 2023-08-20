@@ -1,7 +1,6 @@
+<div align="center"> <img src="https://github.com/Ben-Ogega/Ben-Ogega/assets/72255213/245e3281-972b-4d48-97dd-34274cf655e1)" width: 100%; height: auto;></div>
 <h1 align="center">Hi 👋, I'm Ben Ogega</h1>
-<div align="center"> <image src=![image](https://github.com/Ben-Ogega/Ben-Ogega/assets/72255213/478ac211-e20e-4ad1-9252-773a25e75eb5)></div>
-
-<h3 align="center">I am a Mechanical engineer, from Kenya, with a passion for Data science</h3>
+<h3 align="center">I am a Mechanical engineer, from Kenya. I have a passion for Data science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ben-ogega&label=Profile%20views&color=0e75b6&style=flat" alt="ben-ogega" /> </p>
 
