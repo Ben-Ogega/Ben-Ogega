@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://github.com/Ben-Ogega/Ben-Ogega/assets/72255213/245e3281-972b-4d48-97dd-34274cf655e1)" width: 100%; height: auto;></div>
+<div style="padding:1%; border-style:solid; border-size:1px; width:60; height:60 display: inline-block"> <img src="https://github.com/Ben-Ogega/Ben-Ogega/assets/72255213/245e3281-972b-4d48-97dd-34274cf655e1)" style="width:100%; height:50%;"></div>
 <h1 align="center">Hi 👋, I'm Ben Ogega</h1>
 <h3 align="center">I am a Mechanical engineer, from Kenya. I have a passion for Data science</h3>
 
