@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://github.com/Ben-Ogega/Machine-Learning-Projects/blob/master/Data%20science.jpeg" widht:100% height:auto></div>
+<div align="center"> <img src="https://github.com/Ben-Ogega/Ben-Ogega/blob/main/Statistics.jpg" widht:100% height:auto></div>
 <h1 align="center">Hi 👋, I'm Ben Ogega</h1>
 <h3 align="center">I am a Mechanical engineer, from Kenya. I have a passion for Data science</h3>
 
